@@ -1,4 +1,4 @@
-return() # Remove this line
+#return() # Remove this line
 find_package(Threads REQUIRED)
 
 add_library(proxy INTERFACE)
